@@ -1,0 +1,266 @@
+\begin{thebibliography}{}
+
+\bibitem[{Apache Software Foundation}, 2017]{apache2017apache}
+{Apache Software Foundation} (2017).
+\newblock {Apache HTTP Server Documentation. [Online]}.
+\newblock {\em Available: https://httpd.apache.org/docs/}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Armitage, 2011]{scott2011known}
+Armitage, S. (2011).
+\newblock {Known Wireless Attacks. [Online]}.
+\newblock {\em Available:
+  https://community.jisc.ac.uk/system/files/222/known-wireless-attacks.pdf}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Caswell et~al., 2007]{caswell2007snort}
+Caswell, B., Beale, J., and Baker, A. (2007).
+\newblock {\em {Snort Intrusion Detection and Prevention Toolkit}}, chapter~2,
+  pages 40 -- 47.
+\newblock Syngress.
+
+\bibitem[Caswell et~al., 2005]{caswell2005nessus}
+Caswell, B., Beale, J., Ramirez, G., and Rathaus, N. (2005).
+\newblock {\em {Nessus, Snort, \& Ethereal power tools: customizing open source
+  security applications}}, pages 270 -- 276.
+\newblock Syngress.
+
+\bibitem[{Champ Clark III}, 2014]{champ2014building}
+{Champ Clark III} (2014).
+\newblock {Building Wireless IDS system using open source. [Online]}.
+\newblock {\em Available: http://sagan.quadrantsec.com/papers/ wireless-ids/}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Cisco, 2015]{cisco2015enterprise}
+Cisco (2015).
+\newblock {Enterprise Mobility 7.3 Design Guide. [Online]}.
+\newblock {\em Available:
+  http://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Mobility/emob
+  73dg/emob73/ch4\_Secu.html}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{Community}, 2017]{community2017snorby}
+{Community} (2017).
+\newblock {Snorby. [Online]}.
+\newblock {\em Available: https://github.com/ Snorby/snorby}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Firns, 2016]{ian2016barnyard2}
+Firns, I. (2016).
+\newblock {Barnyard2. [Online]}.
+\newblock {\em Available: https://github.com/ firnsy/barnyard2}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Foster and Moulder, 2013]{foster2013wi}
+Foster, K.~R. and Moulder, J.~E. (2013).
+\newblock {Wi-Fi and Health}.
+\newblock {\em Health physics}, 105(6):561--575.
+
+\bibitem[Gast, 2005]{gast2005802}
+Gast, M.~S. (2005).
+\newblock {\em {802.11 Wireless Networks: The Definitive Guide}}, page 210.
+\newblock O'Reilly Media, Inc.
+
+\bibitem[Geier, 2001]{geier2001wireless}
+Geier, J. (2001).
+\newblock {\em {Wireless LANs (2nd Edition)}}, pages 114--123.
+\newblock Sams Publishing.
+
+\bibitem[Gordon, 2015]{steven2015capturing}
+Gordon, D.~S. (2015).
+\newblock {Capturing Wireless LAN Packets in Monitor Mode with iw. [Online]}.
+\newblock {\em Available: https://sandilands.info/
+  sgordon/capturing-wifi-in-monitor-mode-with-iw}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Guo and Chiueh, 2005]{guo2005sequence}
+Guo, F. and Chiueh, T.-c. (2005).
+\newblock {Sequence number-based MAC address spoof detection}.
+\newblock In {\em International Workshop on Recent Advances in Intrusion
+  Detection}, pages 309--329. Springer.
+
+\bibitem[{IEEE Standards Association} et~al., 2007]{ieee2007802}
+{IEEE Standards Association} et~al. (2007).
+\newblock {802.11-2007-IEEE Standard for Information technology}.
+\newblock {\em IEEE Std}, page~4.
+\newblock section 7.1.3.3.
+
+\bibitem[{IEEE Standards Association} et~al., 2012]{ieee2012802}
+{IEEE Standards Association} et~al. (2012).
+\newblock {802.11-2012-IEEE Standard for Information technology}.
+\newblock {\em IEEE Std}.
+
+\bibitem[Jin, 2013]{jin2013openwrt}
+Jin, T. (2013).
+\newblock {OpenWrt Development Guide}.
+\newblock {\em Wireless Networks Lab., CCIS, NEU}.
+
+\bibitem[Kemp, 2017]{kemp2017digital}
+Kemp, S. (2017).
+\newblock {Digital in 2017: Southeast Asia. [Online]}.
+\newblock {\em Available:
+  https://wearesocial.com/sg/blog/2017/02/digital-southeast-asia-2017}, pages
+  165--187.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Kershaw, 2016]{mike2016kismet}
+Kershaw, M. (2016).
+\newblock {Kismet 2016-01-R1 Documentation. [Online]}.
+\newblock {\em Available: https://www.kismetwireless.net/documentation.shtml}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Khan et~al., 2017]{Khan2017}
+Khan, M.~A., Cherif, W., Filali, F., and Hamila, R. (2017).
+\newblock {Wi-Fi Direct Research - Current Status and Future Perspectives}.
+\newblock {\em Journal of Network and Computer Applications}.
+
+\bibitem[Lehembre, 2005]{guillaume2005wifi}
+Lehembre, G. (2005).
+\newblock {Wi-Fi security-WEP{,} WPA and WPA2. [Online]}.
+\newblock {\em Available: http://www.hsc.fr/ressources/articles/hakin9\_wifi/
+  hakin9\_wifi\_EN.pdf}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Lyon, 2009]{lyon2009nmap}
+Lyon, G.~F. (2009).
+\newblock {\em Nmap network scanning: The official Nmap project guide to
+  network discovery and security scanning}, chapter~15, pages 373 -- 393.
+\newblock Insecure.
+
+\bibitem[Mekhaznia and Zidani, 2015]{MEKHAZNIA2015172}
+Mekhaznia, T. and Zidani, A. (2015).
+\newblock {Wi-Fi Security Analysis}.
+\newblock {\em {Procedia Computer Science}}, 73:172 -- 178.
+\newblock International Conference on Advanced Wireless Information and
+  Communication Technologies (AWICT 2015).
+
+\bibitem[Microsoft, 2008]{microsoft2008ms08067}
+Microsoft (2008).
+\newblock {Microsoft Security Bulletin MS08-067 - Critical. [Online]}.
+\newblock {\em Available:
+  https://technet.microsoft.com/library/security/ms08-067}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{OpenVPN Technologies}, 2017]{vpn2017documentation}
+{OpenVPN Technologies} (2017).
+\newblock {OpenVPN Documentation. [Online]}.
+\newblock {\em Available: https://openvpn.net/index.php/open-source/
+  documentation.html}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{OpenWrt Community}, 2017a]{openwrt2017wiki}
+{OpenWrt Community} (2017a).
+\newblock {OpenWrt Wiki. [Online]}.
+\newblock {\em Available: https://wiki.openwrt.org/start}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{OpenWrt Community}, 2017b]{openwrt2017tplink}
+{OpenWrt Community} (2017b).
+\newblock {TP-Link TL-WR1043ND. [Online]}.
+\newblock {\em Available: https://wiki.openwrt.org/toh/tp-link/tl-wr1043nd}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{Quadrant Information Security Team}, 2017]{quadrant2017sagan}
+{Quadrant Information Security Team} (2017).
+\newblock {The Sagan Log Analysis Engine. [Online]}.
+\newblock {\em Available: https://quadrantsec.com/sagan\_
+  log\_analysis\_engine/}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{Raspberry Pi Foundation}, 2017a]{rasberry2017raspberry}
+{Raspberry Pi Foundation} (2017a).
+\newblock {Raspberry Pi 2 Model B. [Online]}.
+\newblock {\em Available:
+  https://www.raspberrypi.org/products/raspberry-pi-2-model-b/}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{Raspberry Pi Foundation}, 2017b]{raspberry2017raspbian}
+{Raspberry Pi Foundation} (2017b).
+\newblock {Raspbian. [Online]}.
+\newblock {\em Available: https://www.raspbian.org/}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Roesch, 2016]{martin2008daemonlogger}
+Roesch, M. (2016).
+\newblock {Daemonlogger. [Online]}.
+\newblock {\em Available: https://github. com/Cisco-Talos/Daemonlogger}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{Router-switch.com}, 2017a]{router2017airap}
+{Router-switch.com} (2017a).
+\newblock {AIR-AP1261N-A-K9. [Online]}.
+\newblock {\em Available:
+  http://www.router-switch.com/air-ap1261n-a-k9-p-2355.html}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{Router-switch.com}, 2017b]{router2017airwlc}
+{Router-switch.com} (2017b).
+\newblock {AIR-WLC4402-12-K9. [Online]}.
+\newblock {\em Available:
+  http://www.router-switch.com/air-wlc4402-12-k9-p-4378.html}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Scarfone, 2015]{karen2015comparing}
+Scarfone, K. (2015).
+\newblock {Comparing the top wireless intrusion prevention systems. [Online]}.
+\newblock {\em Available: http://searchsecurity.techtarget.com/
+  feature/Comparing-the-top-wireless-intrusion-prevention-systems}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Scarfone, 2016]{karen2016fluke}
+Scarfone, K. (2016).
+\newblock {Fluke Networks AirMagnet Enterprise: WIPS overview. [Online]}.
+\newblock {\em Available: http://searchsecurity.techtarget.com/
+  feature/Fluke-Networks-AirMagnet-Enterprise-WIPS-overview}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Scarfone and Mell, 2007]{scarfone2007guide}
+Scarfone, K. and Mell, P. (2007).
+\newblock {Guide to Intrusion Detection and Prevention Systems (IDPS)}.
+\newblock {\em NIST special publication}, 800(2007):51--62.
+
+\bibitem[{Snort Community}, 2017]{snort2017documents}
+{Snort Community} (2017).
+\newblock {Snort Documents. [Online]}.
+\newblock {\em Available: https://www.snort.org/documents/}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Valli, 2004]{valli2004wireless}
+Valli, C. (2004).
+\newblock {Wireless Snort-A WIDS in progress.}
+\newblock In {\em Australian Computer. Network \& Information Forensics
+  Conference}, pages 112--116.
+
+\bibitem[Varma, 2006]{varma2006wireless}
+Varma, V.~K. (2006).
+\newblock {Wireless Fidelity-WiFi}.
+\newblock {\em Originally published on the IEEE Emerging Technology portal},
+  2012.
+
+\bibitem[Vasseur and Dunkels, 2010]{vasseur2010interconnecting}
+Vasseur, J.-P. and Dunkels, A. (2010).
+\newblock {\em {Interconnecting Smart Objects with IP: The Next Internet}},
+  page 432.
+\newblock Morgan Kaufmann.
+
+\bibitem[Viehbock, 2011]{stefan2011brute}
+Viehbock, S. (2011).
+\newblock {Brute Forcing Wi-Fi Protected Setup. [Online]}.
+\newblock {\em Available:
+  https://sviehb.files.wordpress.com/2011/12/viehboeck\_wps.pdf}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[{Wikipedia}, 2017]{wikipedia2017raspberry}
+{Wikipedia} (2017).
+\newblock {Raspberry Pi}.
+\newblock {\em Available: https://en.wikipedia.org/ wiki/Raspberry\_Pi}.
+\newblock [Accessed: 04-May-2017].
+
+\bibitem[Wright, 2003]{joshua2003detecting}
+Wright, J. (2003).
+\newblock {Detecting Wireless LAN MAC Address Spoofing. [Online]}.
+\newblock {\em Available: http://www.forum-intrusion.com/archive/
+  wlan\_macspooof\_detection.pdf}.
+\newblock [Accessed: 04-May-2017].
+
+\end{thebibliography}

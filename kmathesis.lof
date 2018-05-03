@@ -1,0 +1,37 @@
+\select@language {vietnam}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c 802.11 v\IeC {\`a} s\IeC {\d \uhorn } tham chi\IeC {\'\ecircumflex }u trong m\IeC {\^o} h\IeC {\`\i }nh OSI}}{7}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces C\IeC {\'a}c th\IeC {\`a}nh ph\IeC {\`\acircumflex }n v\IeC {\d \acircumflex }t l\IeC {\'y} c\IeC {\h u}a m\IeC {\d a}ng WiFi}}{8}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces C\IeC {\'a}c giai \IeC {\dj }o\IeC {\d a}n x\IeC {\'a}c th\IeC {\d \uhorn }c v\IeC {\`a} li\IeC {\^e}n k\IeC {\'\ecircumflex }t}}{12}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces S\IeC {\ohorn } \IeC {\dj }\IeC {\`\ocircumflex } t\IeC {\'\acircumflex }n c\IeC {\^o}ng brute force m\IeC {\~a} PIN WPS}}{18}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c chung c\IeC {\h u}a WIDS}}{27}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c c\IeC {\h u}a AirMagnet Enterprise}}{32}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c c\IeC {\h u}a Snort}}{41}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c c\IeC {\h u}a OpenWrt Buildroot}}{47}{figure.2.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gi\IeC {\h a}i ph\IeC {\'a}p IDS truy\IeC {\`\ecircumflex }n th\IeC {\'\ocircumflex }ng cho m\IeC {\d a}ng kh\IeC {\^o}ng d\IeC {\^a}y}}{50}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Gi\IeC {\h a}i ph\IeC {\'a}p KMA-WIDS}}{52}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces V\IeC {\d i} tr\IeC {\'\i } c\IeC {\'a}c ph\IeC {\`\acircumflex }n m\IeC {\`\ecircumflex }m trong KMA-WIDS}}{53}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c b\IeC {\^e}n trong TP-Link TL-WR1043ND}}{55}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Ho\IeC {\d a}t \IeC {\dj }\IeC {\d \ocircumflex }ng c\IeC {\h u}a libpcap}}{58}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces M\IeC {\'a}y t\IeC {\'\i }nh nh\IeC {\'u}ng Raspberry Pi 2 m\IeC {\~\acircumflex }u B}}{59}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Lu\IeC {\`\ocircumflex }ng x\IeC {\h \uhorn } l\IeC {\'y} d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u c\IeC {\h u}a Kismet}}{59}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Lu\IeC {\`\ocircumflex }ng x\IeC {\h \uhorn } l\IeC {\'y} d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u c\IeC {\h u}a Snort}}{60}{figure.3.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces M\IeC {\^o} h\IeC {\`\i }nh tri\IeC {\h \ecircumflex }n khai h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng KMA-WIDS}}{63}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Giao di\IeC {\d \ecircumflex }n b\IeC {\h a}ng \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n c\IeC {\h u}a Snorby}}{66}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Danh s\IeC {\'a}ch c\IeC {\'a}c Sensor tr\IeC {\^e}n Snorby}}{67}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Giao di\IeC {\d \ecircumflex }n qu\IeC {\h a}n l\IeC {\'y} s\IeC {\d \uhorn } ki\IeC {\d \ecircumflex }n c\IeC {\h u}a Snorby}}{67}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Ch\IeC {\'\uhorn }c n\IeC {\u a}ng t\IeC {\`\i }m ki\IeC {\'\ecircumflex }m c\IeC {\h u}a Snorby}}{68}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces C\IeC {\h a}nh b\IeC {\'a}o BSSTIMESTAMP tr\IeC {\^e}n Snorby}}{69}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces C\IeC {\'a}c khung \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c \IeC {\dj }\IeC {\d o}c b\IeC {\`\abreve }ng ph\IeC {\`\acircumflex }n m\IeC {\`\ecircumflex }m Wireshark}}{70}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Chi ti\IeC {\'\ecircumflex }t c\IeC {\h a}nh b\IeC {\'a}o t\IeC {\'\acircumflex }n c\IeC {\^o}ng l\IeC {\`a}m l\IeC {\d u}t khung h\IeC {\h u}y b\IeC {\h o} x\IeC {\'a}c th\IeC {\d \uhorn }c}}{71}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces H\IeC {\`\i }nh \IeC {\h a}nh c\IeC {\'a}c khung h\IeC {\h u}y b\IeC {\h o} x\IeC {\'a}c th\IeC {\d \uhorn }c trong Wireshark}}{72}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces C\IeC {\'a}c g\IeC {\'o}i tin qu\IeC {\'e}t c\IeC {\h \ocircumflex }ng thu th\IeC {\d \acircumflex }p \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c}}{73}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces C\IeC {\h a}nh b\IeC {\'a}o t\IeC {\'\acircumflex }n c\IeC {\^o}ng qu\IeC {\'e}t c\IeC {\h \ocircumflex }ng tr\IeC {\^e}n Snorby}}{74}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces C\IeC {\'a}c g\IeC {\'o}i tin t\IeC {\`\uhorn } t\IeC {\'\acircumflex }n c\IeC {\^o}ng khai th\IeC {\'a}c l\IeC {\~\ocircumflex } h\IeC {\h o}ng MS08-067}}{75}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces C\IeC {\h a}nh b\IeC {\'a}o t\IeC {\'\acircumflex }n c\IeC {\^o}ng khai th\IeC {\'a}c l\IeC {\~\ocircumflex } h\IeC {\h o}ng MS08-067 tr\IeC {\^e}n Snorby}}{76}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Th\IeC {\`\ohorn }i gian b\IeC {\'\abreve }t \IeC {\dj }\IeC {\`\acircumflex }u ph\IeC {\'a}t hi\IeC {\d \ecircumflex }n khung \IeC {\dj }\IeC {\`\acircumflex }u ti\IeC {\^e}n}}{77}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Th\IeC {\`\ohorn }i gian b\IeC {\'\abreve }t \IeC {\dj }\IeC {\`\acircumflex }u g\IeC {\h \uhorn }i khung \IeC {\dj }\IeC {\`\acircumflex }u ti\IeC {\^e}n}}{78}{figure.4.15}
+\addvspace {10\p@ }

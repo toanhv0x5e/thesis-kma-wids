@@ -1,0 +1,140 @@
+% This template originates from the Cambridge University thesis 
+% which is created by Prof Harish Bhanderi.  
+% This is template follows the GNU license for Education and training
+% purposes. (http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/ThesisStyle/) 
+%
+% Modified by Toan Ha Van - toanhv.vietnam@gmail.com
+% The Academy of Cryptography Techniques, Vietnam
+% 04/05/2017
+%
+
+\documentclass[oneside]{Classes/KMA}
+
+% pdfmetadata: However, if you are using the hyperref package (which uses your Table of Contents to create bookmarks and a contents pane in your PDF - very pretty) you will find your pdfinfo block is ignored.
+% \ifpdf 
+%     \pdfinfo { /Title  (Research about Methodologies of Intrusion Detection for WiFi Networks)
+%                /Creator (TeX)
+%                /Producer (pdfTeX)
+%                /Author (Toan Ha Van - toanhv.vietnam@gmail.com)
+%                /CreationDate (D:20170303031010)  %format D:YYYYMMDDhhmmss
+%                /ModDate (D:20170606031010)
+%                /Subject (Research about Methodologies of Intrusion Detection for WiFi Networks)
+%                /Keywords (WiFi Security; Wireless Intrusion Detection System; WiFi Access Point; Opensource Software; Kismet Wireless; OpenWrt)}
+%     \pdfcatalog { /PageMode (/UseOutlines)
+%                   /OpenAction (fitbh)  }
+% \fi
+
+\university{{BAN CƠ YẾU CHÍNH PHỦ}}%
+\collegeordept{{HỌC VIỆN KỸ THUẬT MẬT MÃ}}%
+% standard temple does not include logo
+\crest{\includegraphics[scale=0.45]{kmalogo.png}}%
+\title{NGHIÊN~CỨU~CÁC~PHƯƠNG~PHÁP~PHÁT~HIỆN XÂM~NHẬP\\MẠNG~WIFI}%
+\supervisor{{TS. Nguyễn~Anh~Tuấn}}%
+\supervisororg{{Trường Đại học Công nghệ Thông tin}}%
+\supervisororgext{{Đại học Quốc gia TP. Hồ Chí Minh}}%
+\author{{Hà~Văn~Toàn}}%
+\grade{{9}}%
+\class{{AT9D}}%
+\major{{Công~nghệ~thông~tin}}%
+\submajor{{An~toàn~thông~tin}}%
+\majorcode{{52.48.02.01}}%
+\degreedate{TP.~Hồ Chí Minh,~2017}%
+\hbadness=10000
+\hfuzz=50pt
+\usepackage{StyleFiles/watermark}
+\onehalfspacing
+
+% begin: format source code
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\lstset{
+    frame=single,
+    language=c,
+    aboveskip=2mm,
+    belowskip=2mm,
+    showstringspaces=false,
+    columns=flexible,
+    basicstyle={\footnotesize\ttfamily},
+    numbers=none, 
+    keywordstyle={\color{blue}},
+    commentstyle={\color{dkgreen}},
+    stringstyle={\color{mauve}},
+    breaklines=true,
+    breakatwhitespace=true,
+    tabsize=2
+}
+% end: format source code
+
+\renewcommand{\baselinestretch}{1.3}
+\begin{document}
+% change geometry to resize bolder of cover
+\newgeometry{a4paper,left=3cm,right=2.5cm,top=2cm,bottom=2.5cm}
+\makecover%
+\makebackcover%
+% restore geometry defaults
+\restoregeometry%
+%\newgeometry{a4paper,left=3.5cm,right=2cm,top=3cm,bottom=3cm}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+%
+\frontmatter % book mode only
+\pagenumbering{roman}
+%\include{Dedication/dedication}
+\include{Acknowledgement/acknowledgement}
+\include{Commitment/commitment}
+%
+\tableofcontents
+\include{Abbreviation/abbreviation}
+\listoffigures
+  %\printnomenclature
+  %\addcontentsline{toc}{chapter}{Nomenclature}
+\listoftables
+
+\mainmatter
+%\include{Abstract/abstract}
+\include{Preface/preface}
+\include{Chapter1/chapter1}
+\include{Chapter2/chapter2}
+\include{Chapter3/chapter3}
+\include{Chapter4/chapter4}
+\include{Conclusions/conclusions}
+
+\backmatter  
+
+%% ********************************** Bibliography ******************************
+%\begin{spacing}{0.9}
+%
+%% To use the conventional natbib style referencing
+%% Bibliography style previews: http://nodonn.tipido.net/bibstyle.php
+%% Reference styles: http://sites.stat.psu.edu/~surajit/present/bib.htm
+%
+%\bibliographystyle{apalike}
+%%\bibliographystyle{unsrt} % Use for unsorted references  
+%%\bibliographystyle{plainnat} % use this to have URLs listed in References
+%\cleardoublepage
+%\bibliography{References/references} % Path to your References.bib file
+%
+%
+%% If you would like to use BibLaTeX for your references, pass `custombib' as
+%% an option in the document class. The location of 'reference.bib' should be
+%% specified in the preamble.tex file in the custombib section.
+%% Comment out the lines related to natbib above and uncomment the following line.
+%
+%%\printbibliography[heading=bibintoc, title={References}]
+%
+%
+%\end{spacing}
+
+\bibliographystyle{apalike} %
+%\bibliographystyle{plainnat} %
+%\bibliographystyle{Classes/CUEDbiblio.bst} %
+%\bibliographystyle{Classes/jmb} % bibliography style
+\renewcommand{\bibname}{TÀI LIỆU THAM KHẢO} % changes default name Bibliography to References
+\bibliography{References/references} % Path to your References.bib file
+
+\appendix
+\include{Appendix1/appendix1}
+\include{Appendix2/appendix2}
+ 
+\end{document}

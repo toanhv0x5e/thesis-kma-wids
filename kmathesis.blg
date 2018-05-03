@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Arch Linux)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: kmathesis.aux
+A level-1 auxiliary file: Acknowledgement/acknowledgement.aux
+A level-1 auxiliary file: Commitment/commitment.aux
+A level-1 auxiliary file: Abbreviation/abbreviation.aux
+A level-1 auxiliary file: Preface/preface.aux
+A level-1 auxiliary file: Chapter1/chapter1.aux
+A level-1 auxiliary file: Chapter2/chapter2.aux
+A level-1 auxiliary file: Chapter3/chapter3.aux
+A level-1 auxiliary file: Chapter4/chapter4.aux
+A level-1 auxiliary file: Conclusions/conclusions.aux
+The style file: apalike.bst
+A level-1 auxiliary file: Appendix1/appendix1.aux
+A level-1 auxiliary file: Appendix2/appendix2.aux
+Database file #1: References/references.bib
+You've used 42 entries,
+            1935 wiz_defined-function locations,
+            684 strings with 9859 characters,
+and the built_in function-call counts, 14137 in all, are:
+= -- 1432
+> -- 379
+< -- 51
++ -- 117
+- -- 114
+* -- 930
+:= -- 2505
+add.period$ -- 155
+call.type$ -- 42
+change.case$ -- 259
+chr.to.int$ -- 39
+cite$ -- 42
+duplicate$ -- 659
+empty$ -- 1039
+format.name$ -- 168
+if$ -- 2838
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 48
+newline$ -- 241
+num.names$ -- 126
+pop$ -- 230
+preamble$ -- 1
+purify$ -- 265
+quote$ -- 0
+skip$ -- 554
+stack$ -- 0
+substring$ -- 829
+swap$ -- 128
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 240
+warning$ -- 0
+while$ -- 113
+width$ -- 0
+write$ -- 577

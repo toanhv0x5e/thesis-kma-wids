@@ -1,0 +1,44 @@
+%\def\baselinestretch{1.3}
+\chapter{KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}
+\ifpdf
+    \graphicspath{{Conclusions/ConclusionsFigs/PNG/}{Conclusions/ConclusionsFigs/PDF/}{Conclusions/ConclusionsFigs/}}
+\else
+    \graphicspath{{Conclusions/ConclusionsFigs/EPS/}{Conclusions/ConclusionsFigs/}}
+\fi
+
+%\def\baselinestretch{1.66}
+\renewcommand{\baselinestretch}{1.3}
+
+\section{Kết luận}
+Đồ án đã đạt được những kết quả sau:
+
+\begin{itemize}
+\item Tiếp cận với các thiết bị nhúng, cũng như ứng dụng các thiết bị này vào nghiên cứu xây dựng các giải pháp bảo mật.
+\item Hệ thống lại các kiến thức cơ sở về hoạt động của mạng WiFi, các tấn công xảy ra trong mạng WiFi.
+\item Đồ án tập trung nghiên cứu về hệ thống phát hiện xâm nhập, các phương pháp phát hiện xâm nhập phổ biến. Sau đó nghiên cứu những đặc điểm riêng của phát hiện xâm nhập mạng WiFi.
+\item Thêm nữa, đồ án cũng thực hiện khảo sát về các hệ thống đã được phát triển, để thấy được ưu nhược điểm của chúng.
+\item Từ những kết quả nghiên cứu và tìm hiểu, đồ án đã đề xuất và hiện thực thành công một hệ thống WIDS có tên là KMA-WIDS, để giám sát và phát hiện các tấn công từ bên ngoài và bên trong mạng WiFi.
+\end{itemize}
+
+\section{Hướng phát triển} \label{section:huong-phat-trien}
+
+Từ những kết quả đạt được, đồ án hy vọng sẽ mở ra một hướng nghiên cứu tiềm năng về tích hợp bảo mật trên thiết bị nhúng, cụ thể là giải pháp phát hiện xâm nhập mạng WiFi. Vì vậy, để hệ thống có thể được ứng dụng rộng rãi trong thực tế, đồ án có một số hướng phát triển đó là:
+
+\begin{itemize}
+\item Nghiên cứu mã nguồn của các phần mềm phát hiện xâm nhập được sử dụng, để từ đó có thể phát triển thêm, tối ưu vấn đề sử dụng tài nguyên để hệ thống đạt hiệu năng cao hơn trên thiết bị nhúng.
+\item Phát triển thêm các phần mở rộng cho các phần mềm mà hệ thống sử dụng, để khai thác các tính năng bổ sung, cũng như đóng góp vào cộng đồng mã nguồn mở.
+\item Phát triển thêm tính năng cảnh báo theo thời gian thực qua SMS hoặc ứng dụng \emph{bot}. Ứng dụng bot là một chương trình tự động gửi tin nhắn nhanh đến người dùng, có rất nhiều bot miễn phí như facebook, telegram,~\ldots
+\item Nghiên cứu tính năng ngăn chặn xâm nhập của Snort để áp dụng vào hệ thống WIDS nhằm ngăn chặn các tấn công bên trong mạng WiFi.
+\item Xây dựng bộ tài liệu hướng dẫn triển khai, cũng như hướng dẫn sử dụng trực quan và đầy đủ, giúp người dùng tiếp cận và sử dụng hệ thống.
+\end{itemize}
+
+
+
+%%% ----------------------------------------------------------------------
+
+% ------------------------------------------------------------------------
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../thesis"
+%%% End: 

@@ -1,0 +1,52 @@
+% \pagebreak[4]%
+% \hspace*{1cm}%
+% \pagebreak[4]%
+% \hspace*{1cm}%
+% \pagebreak[4]%
+
+\chapter{GIỚI THIỆU ĐỀ TÀI}
+
+\ifpdf
+    \graphicspath{{Chapter1/Chapter1Figs/PNG/}{Chapter1/Chapter1Figs/PDF/}{Chapter1/Chapter1Figs/}}
+\else
+    \graphicspath{{Chapter1/Chapter1Figs/EPS/}{Chapter1/Chapter1Figs/}}
+\fi
+
+\section{Tên đề tài}
+Nghiên cứu các phương pháp phát hiện xâm nhập mạng WiFi.
+
+\section{Từ khóa}
+WiFi Security - Bảo mật mạng WiFi, Wireless Intrusion Detection System - Hệ thống phát hiện xâm nhập mạng không dây, WiFi Access Point - Điểm truy cập WiFi, Opensource Software - Phần mềm mã nguồn mở, Kismet Wireless, Snort, OpenWrt.
+
+\section{Nội dung và giới hạn của đề tài}
+
+\subsection{Nội dung của đề tài}
+Hệ thống phát hiện xâm nhập là một giải pháp bảo mật đang được ứng dụng rộng rãi trong các hệ thống của các tổ chức. Tuy nhiên, chúng chủ yếu được dùng để bảo vệ các máy chủ và mạng có dây, vấn đề phát hiện xâm nhập trong mạng WiFi chưa được quan tâm đúng mức. Ngoài ra, chi phí về giá thành cũng như vấn đề triển khai khá phức tạp của các giải pháp hiện có, làm cho chúng không phù hợp với các tổ chức và doanh nghiệp nhỏ tại Việt Nam. Mục tiêu của đề tài là nghiên cứu về các phương pháp phát hiện xâm nhập mạng WiFi, các hệ thống hiện có, từ đó ứng dụng các phần mềm mã nguồn mở để xây dựng một hệ thống phát hiện xâm nhập cho mạng WiFi, với các tính năng bảo mật và chi phí hợp lý. Cụ thể đề tài thực hiện những mục tiêu sau:
+
+\begin{itemize}
+\item Tìm hiểu những kiến thức nền tảng về mạng WiFi, để hiểu rõ các mô hình mạng và hoạt động. Từ đó chỉ ra những điểm yếu và các tấn công điển hình trong mạng WiFi.
+\item Nghiên cứu về các phương pháp phát hiện xâm nhập phổ biến, và những đặc điểm riêng của phát hiện xâm nhập trong mạng WiFi.
+\item Khảo sát về các hệ thống phát hiện xâm nhập mạng WiFi hiện có, phân tích ưu nhược điểm.
+\item Tìm hiểu về các phần mềm phát hiện xâm nhập mã nguồn mở và các phần mềm liên quan.
+\item Tìm hiểu về thiết bị Access Point, quá trình xây dựng một firmware OpenWrt và thay thế firmware có sẵn của thiết bị.
+\item Tìm hiểu về máy tính nhúng Raspberry Pi và ứng dụng của nó.
+\item Từ những kiến thức trên, xây dựng một hệ thống phát hiện xâm nhập mạng WiFi để thử nghiệm, đánh giá.
+\end{itemize}
+
+\subsection{Giới hạn của đề tài}
+Các nguy cơ gây mất an toàn thông tin trong mạng WiFi rất đa dạng. Cùng với đó, các kỹ thuật phát hiện xâm nhập cũng không ngừng cải tiến để bảo vệ hệ thống. Đây là một chủ đề khá rộng, đề tài này chỉ tập trung vào một số tấn công điển hình trong mạng WiFi, hệ thống phát hiện xâm nhập được hiện thực chỉ có tính năng phát hiện xâm nhập và đưa ra cảnh báo, chưa có tính năng chặn đứng các tấn công ngay khi nó diễn ra. Tuy nhiên với việc sử dụng các phần mềm mã nguồn mở và đang được tiếp tục phát triển bởi cộng đồng, hệ thống này có khả năng mở rộng rất lớn.
+
+Đề tài cũng không bao gồm các kiến thức về lớp vật lý của mạng WiFi, hay các tấn công trên lớp vật lý như tấn công phá sóng. Các hệ thống phát hiện xâm nhập hiện có hầu hết cũng chưa thể giải quyết các vấn đề này.\\ \\ \\ \\
+
+\section{Cấu trúc báo cáo}
+Báo cáo đồ án được cấu trúc như sau:
+
+Chương 1 giới thiệu tổng quan về đề tài nghiên cứu, mục đích nghiên cứu, phạm vi nghiên cứu của đề tài.
+
+Chương 2 cho thấy các nguy cơ gây mất an toàn thông tin thường trực trong mạng WiFi. Từ đó, nghiên cứu về hệ thống phát hiện xâm nhập, các phương pháp phát hiện xâm nhập để phát hiện và đưa ra các cảnh báo kịp thời khi xảy ra các cuộc tấn công. Đồng thời, chương này cũng đi khảo sát các hệ thống đã được phát triển, khái quát các kiến thức, công nghệ liên quan.
+
+Chương 3 đưa ra hướng tiếp cận của đề tài, từ đó cụ thể thiết kế hệ thống và phân tích các luồng hoạt động.
+
+Chương 4 trình bày việc hiện thực các thiết kế từ chương 3, giới thiệu giao diện quản lý hệ thống. Cuối chương là kiểm thử và đánh giá hệ thống được xây dựng.
+
+Cuối cùng, đề tài được tổng kết trong chương 5, nêu lên ý nghĩa và đưa ra hướng phát triển tiếp theo.
